@@ -32,7 +32,7 @@ Unfortunately, this is only valid whilst working in the world frame.
 
 ![Euler's Rotation Equation](/images/eulers_equation.png)
 
-When working in the body frame, we have the above [equation](https://en.wikipedia.org/wiki/Euler%27s_equations_(rigid_body_dynamics%29) -- read "M is equal to I times omega_dot plus omega cross with I omega", wherein we're taking the cross-product.
+When working in the body frame, we have the above [equation](https://en.wikipedia.org/wiki/Euler%27s_equations_(rigid_body_dynamics%29)) -- read "M is equal to I times omega_dot plus omega cross with I omega", wherein we're taking the cross-product.
 
 As we saw previously, omega is just a vector of the body rates: omega = [pqr]. Thus, omega_dot = [p_dot, q_dot, r_dot].
 
